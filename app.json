@@ -7,8 +7,8 @@
 		"blog",
 		"cms"
 	],
-	"website": "https://github.com/dzuelke/wordpress-12factor",
-	"repository": "https://github.com/dzuelke/wordpress-12factor",
+	"website": "https://github.com/bos-hieu/wordpress-12factor",
+	"repository": "https://github.com/bos-hieu/wordpress-12factor",
 	"logo": "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
 	"success_url": "/",
 	"scripts": {
@@ -29,8 +29,7 @@
 	},
 	"addons": [
 		"jawsdb",
-		"bucketeer",
-		"sendgrid"
+		"bucketeer"
 	],
 	"image": "heroku/php"
 }
